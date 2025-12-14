@@ -12,16 +12,16 @@ A secure and user-friendly **Password Manager** built using **React.js** that al
 - 📋 Copy password to clipboard
 - 🔍 Search saved credentials
 - 🎨 Clean and responsive UI
-- 💾 Local storage support *(or backend if added)*
+- 💾 Local storage support 
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
-- **Styling:** CSS / Tailwind CSS *(mention what you used)*
+- **Styling:** CSS / Tailwind CSS 
 - **State Management:** React Hooks
-- **Storage:** Local Storage *MongoDB*
+- **Storage:** Local Storage  and *MongoDB*
 
 ---
 
