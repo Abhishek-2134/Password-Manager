@@ -25,4 +25,3 @@ A secure and user-friendly **Password Manager** built using **React.js** that al
 
 ---
 
-](screenshots/add-password.png)
